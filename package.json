@@ -4,7 +4,7 @@
   "description": "mern app",
   "main": "server.js",
   "scripts": {
-    "test": "mocha --reporter list",
+    "test": "react-scripts test",
     "start": "nodemon backend/server"
   },
   "author": "Rhys",
